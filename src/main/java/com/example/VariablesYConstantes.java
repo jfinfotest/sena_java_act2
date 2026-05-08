@@ -9,6 +9,7 @@ public class VariablesYConstantes {
 
     public static void demostrarConvencionesNombres() {
         // TODO
+        int contadorProductos = 10;
     }
 
     public static void demostrarConstantes() {
